@@ -1,0 +1,17 @@
+package emailApp;
+
+public class Email {
+ private String firstName;
+ private String lastName;
+ private String password;
+ private String department;
+ private String alternativeEmail;
+ private int mailboxCapacity;
+ 
+ //constructor to receive first name and last name
+ //ask for the department
+ //generate a random password
+ //set the mailbox capacity
+ //set the alternative email
+ //change password
+}

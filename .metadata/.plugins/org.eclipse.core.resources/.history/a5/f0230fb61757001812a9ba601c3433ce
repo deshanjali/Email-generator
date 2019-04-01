@@ -1,0 +1,8 @@
+package emailApp;
+//CREATING EMAIL ACCOUNTS FOR NEW HIRES
+
+public class EmailApp {
+public static void main(String[] args) {
+	
+}
+}
